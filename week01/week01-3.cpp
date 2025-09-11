@@ -1,6 +1,6 @@
 /// week01-3.cpp
 #include<iostream> ///使用 C++ 的外掛，負責輸入Input 輸出Output
-useing namespace std; ///使用 C++ 的 std 的「命名空間」
+using namespace std; ///使用 C++ 的 std 的「命名空間」
 
 int main(){
 	int n;
